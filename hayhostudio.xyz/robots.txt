@@ -1,0 +1,4 @@
+User-agent: *
+allow: /
+
+Sitemap: https://onelikestudio.com/sitemap.xml
